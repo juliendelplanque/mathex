@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MNthrootTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

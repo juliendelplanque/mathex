@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testFloat" : "JulienDelplanque 9/5/2015 10:35",
+		"testFraction" : "JulienDelplanque 9/5/2015 10:33",
+		"testLargeNegativeInteger" : "JulienDelplanque 9/5/2015 10:41",
+		"testLargePositiveInteger" : "JulienDelplanque 9/5/2015 10:42",
+		"testScaledDecimal" : "JulienDelplanque 9/5/2015 10:47",
+		"testSmallInteger" : "JulienDelplanque 9/5/2015 10:47" } }

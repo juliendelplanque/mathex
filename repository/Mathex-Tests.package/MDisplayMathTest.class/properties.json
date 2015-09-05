@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MDisplayMathTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

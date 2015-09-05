@@ -1,0 +1,1 @@
+A MMathTest is a test class for testing the behavior of MMath
