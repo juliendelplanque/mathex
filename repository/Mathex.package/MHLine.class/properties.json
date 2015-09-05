@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 9/4/2015 13:46",
 	"instvars" : [
 		 ],
 	"name" : "MHLine",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "MCommand",
 	"type" : "normal" }

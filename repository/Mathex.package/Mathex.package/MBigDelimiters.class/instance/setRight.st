@@ -1,3 +1,0 @@
-accessing
-setRight
-	right := '\right'

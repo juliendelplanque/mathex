@@ -5,6 +5,11 @@ manageMessageWithoutArgs: aMessage
 	subclassesNames := MObject allNonAbstractSubclassesNames.
 	(subclassesNames anySatisfy: [ :className | className = classWanted  ])
 		ifTrue: [
+			| instance |
 			class := Smalltalk at: classWanted.
-			^ class new parameter: self; yourself ].
+			instance := class new.
+			(MEnvironment allSubclasses anySatisfy: [ :c | c = class ])
+				ifTrue: [ instance inside: self; yourself ]
+				ifFalse: [ instance parameter: self; yourself ].
+			^instance ].
 	^ super doesNotUnderstand: aMessage

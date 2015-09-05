@@ -1,3 +1,0 @@
-accessing
-setLeft
-	left := '\left'

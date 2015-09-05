@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 list
 	^{ 'alpha' . 'beta' . 'gamma' . 'delta' . 'epsilon' . 'varepsilon' . 'zeta' . 'eta' . 'theta' . 'vartheta' . 'gamma' . 'kappa' . 'lambda' . 'mu' . 'nu' . 'xi' . 'o' . 'pi' . 'varpi' . 'rho' . 'varrho' . 'sigma' . 'varsigma' . 'tau' . 'upsilon' . 'phi' . 'varphi' . 'chi' . 'psi' . 'omega' . 'Gamma' . 'Delta' . 'Theta' . 'Lambda' . 'Xi' . 'Pi' . 'Sigma' . 'Upsilon' . 'Phy' . 'Psy' . 'Omega' }

@@ -1,6 +1,6 @@
 *Mathex
 asMathex
-	^MFraction new
+	^MFrac new
 		parameter: self numerator;
 		parameter: self denominator;
 		yourself

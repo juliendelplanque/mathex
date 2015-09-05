@@ -1,3 +1,0 @@
-accessing
-parameterCount
-	^1

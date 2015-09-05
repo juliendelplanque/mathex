@@ -1,5 +1,3 @@
 *Mathex
 asMathex
-	^MSqrt new
-		parameter: self;
-		yourself
+	^MNumber number: self

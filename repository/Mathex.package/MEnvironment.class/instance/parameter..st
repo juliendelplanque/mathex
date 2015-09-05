@@ -1,3 +1,3 @@
 accessing
 parameter: anObject
-	self inside: anObject
+	parameters add: anObject

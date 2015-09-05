@@ -1,4 +1,6 @@
 initialization
 initialize
 	super initialize.
-	delimiters := (MParenthesis new inside: self) bigDelimiters.
+	delimiters := MBigDelimiters new
+							inside: (MParenthesis new inside: [ self asString ]);
+							yourself

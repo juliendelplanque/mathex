@@ -1,1 +1,0 @@
-I am the delimiter that use \left and \right to have big delimiters.

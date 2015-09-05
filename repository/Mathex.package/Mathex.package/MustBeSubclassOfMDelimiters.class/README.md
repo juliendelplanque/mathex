@@ -1,1 +1,0 @@
-I am the error raised when an object was expected to be subclass of MDelimiters.

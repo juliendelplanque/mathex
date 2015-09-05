@@ -1,3 +1,0 @@
-accessing
-environmentName
-	^'displaymath'

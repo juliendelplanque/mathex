@@ -2,12 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"environementParameters" : "JulienDelplanque 8/31/2015 22:20",
 		"environmentName" : "JulienDelplanque 8/31/2015 20:28",
-		"environmentParameter:" : "JulienDelplanque 8/31/2015 22:20",
 		"initialize" : "JulienDelplanque 8/31/2015 20:32",
 		"inside" : "JulienDelplanque 8/31/2015 20:29",
 		"inside:" : "JulienDelplanque 8/31/2015 20:29",
-		"parameter:" : "JulienDelplanque 8/31/2015 22:20",
-		"printOn:" : "JulienDelplanque 8/31/2015 20:35",
-		"printParametersOn:" : "JulienDelplanque 8/31/2015 20:54" } }
+		"on:" : "JulienDelplanque 9/2/2015 23:35",
+		"parameter:" : "JulienDelplanque 9/2/2015 23:24",
+		"parameters" : "JulienDelplanque 9/2/2015 23:24" } }

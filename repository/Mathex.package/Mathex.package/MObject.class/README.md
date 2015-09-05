@@ -1,1 +1,0 @@
-I am an abstract object of the Mathex package.

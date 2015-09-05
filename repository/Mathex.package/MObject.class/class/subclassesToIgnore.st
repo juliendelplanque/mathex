@@ -1,3 +1,3 @@
 private
 subclassesToIgnore
-	^ { MCommand . MBinaryOperator . MBinaryOperatorCommand . MFunction . MDelimiters . MEnvironment }
+	^ { MCommand . MBinaryOperator . MBinaryOperatorCommand . MSpecialBinaryOperator . MFunction . MDelimiters . MEnvironment . MRow }

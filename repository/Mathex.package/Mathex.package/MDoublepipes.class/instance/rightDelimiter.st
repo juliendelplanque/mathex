@@ -1,3 +1,0 @@
-accessing
-rightDelimiter
-	^self leftDelimiter
