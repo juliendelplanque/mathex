@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Array",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rows" ],
+	"name" : "MArray",
+	"pools" : [
+		 ],
+	"super" : "MEnvironment",
+	"type" : "normal" }

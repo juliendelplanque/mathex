@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 8/31/2015 20:22",
+	"instvars" : [
+		 ],
+	"name" : "MustBeSubclassOfMDelimiters",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

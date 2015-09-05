@@ -1,0 +1,3 @@
+accessing
+setRightNull
+	right := '.'

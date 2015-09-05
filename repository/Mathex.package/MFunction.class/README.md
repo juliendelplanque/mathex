@@ -1,0 +1,1 @@
+I am a function. I put comma between my arguments and I surround them with parenthesis.

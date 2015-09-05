@@ -1,0 +1,1 @@
+I represent an horizontal line in the array environment.

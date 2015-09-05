@@ -1,0 +1,13 @@
+SystemOrganization addCategory: #Mathex!
+SystemOrganization addCategory: 'Mathex-Array'!
+SystemOrganization addCategory: 'Mathex-BinaryOperators'!
+SystemOrganization addCategory: 'Mathex-Commands'!
+SystemOrganization addCategory: 'Mathex-Core'!
+SystemOrganization addCategory: 'Mathex-Delimiters'!
+SystemOrganization addCategory: 'Mathex-Environments'!
+SystemOrganization addCategory: 'Mathex-Exceptions'!
+SystemOrganization addCategory: 'Mathex-Functions'!
+SystemOrganization addCategory: 'Mathex-GreekLetters'!
+SystemOrganization addCategory: 'Mathex-Matrix'!
+SystemOrganization addCategory: 'Mathex-Numbers'!
+SystemOrganization addCategory: 'Mathex-Relations'!

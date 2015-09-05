@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Array",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/4/2015 13:39",
+	"instvars" : [
+		"collection" ],
+	"name" : "MRow",
+	"pools" : [
+		 ],
+	"super" : "MObject",
+	"type" : "normal" }

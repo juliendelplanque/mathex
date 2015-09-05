@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 8/31/2015 13:11",
+	"instvars" : [
+		 ],
+	"name" : "UnknownGreekLetter",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

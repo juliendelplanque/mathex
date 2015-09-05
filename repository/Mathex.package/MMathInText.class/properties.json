@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Environments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MMathInText",
+	"pools" : [
+		 ],
+	"super" : "MEnvironment",
+	"type" : "normal" }

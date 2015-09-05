@@ -1,0 +1,3 @@
+accessing
+inside
+	^self rows

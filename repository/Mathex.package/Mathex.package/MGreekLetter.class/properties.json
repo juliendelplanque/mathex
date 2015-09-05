@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-GreekLetters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 8/31/2015 12:37",
+	"instvars" : [
+		"letter" ],
+	"name" : "MGreekLetter",
+	"pools" : [
+		 ],
+	"super" : "MCommand",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Array",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/4/2015 13:46",
+	"instvars" : [
+		 ],
+	"name" : "MHLine",
+	"pools" : [
+		 ],
+	"super" : "MCommand",
+	"type" : "normal" }

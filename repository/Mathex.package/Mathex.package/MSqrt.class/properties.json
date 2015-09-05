@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Functions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/4/2015 10:13",
+	"instvars" : [
+		 ],
+	"name" : "MSqrt",
+	"pools" : [
+		 ],
+	"super" : "MCommand",
+	"type" : "normal" }

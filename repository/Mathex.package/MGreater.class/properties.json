@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Relations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MGreater",
+	"pools" : [
+		 ],
+	"super" : "MBinaryOperator",
+	"type" : "normal" }

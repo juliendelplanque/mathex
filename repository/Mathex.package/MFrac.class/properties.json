@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MFrac",
+	"pools" : [
+		 ],
+	"super" : "MCommand",
+	"type" : "normal" }

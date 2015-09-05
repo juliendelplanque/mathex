@@ -1,0 +1,15 @@
+{
+	"category" : "Mathex-Delimiters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/4/2015 10:11",
+	"instvars" : [
+		"left",
+		"right" ],
+	"name" : "MBigDelimiters",
+	"pools" : [
+		 ],
+	"super" : "MDelimiters",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-BinaryOperators",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 8/31/2015 18:04",
+	"instvars" : [
+		 ],
+	"name" : "MBinaryOperatorCommand",
+	"pools" : [
+		 ],
+	"super" : "MBinaryOperator",
+	"type" : "normal" }

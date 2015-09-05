@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Environments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/4/2015 09:58",
+	"instvars" : [
+		 ],
+	"name" : "MEquation",
+	"pools" : [
+		 ],
+	"super" : "MEnvironment",
+	"type" : "normal" }

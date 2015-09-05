@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Delimiters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MParenthesis",
+	"pools" : [
+		 ],
+	"super" : "MDelimiters",
+	"type" : "normal" }

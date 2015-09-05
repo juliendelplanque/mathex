@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Delimiters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/4/2015 10:12",
+	"instvars" : [
+		 ],
+	"name" : "MPipes",
+	"pools" : [
+		 ],
+	"super" : "MDelimiters",
+	"type" : "normal" }

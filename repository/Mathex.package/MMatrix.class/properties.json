@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Matrix",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"delimiters" ],
+	"name" : "MMatrix",
+	"pools" : [
+		 ],
+	"super" : "MArray",
+	"type" : "normal" }

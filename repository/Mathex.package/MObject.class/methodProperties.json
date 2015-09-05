@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"allNonAbstractSubclassesNames" : "JulienDelplanque 8/31/2015 11:34",
+		"subclassesToIgnore" : "JulienDelplanque 8/31/2015 22:03" },
+	"instance" : {
+		"doesNotUnderstand:" : "JulienDelplanque 8/31/2015 15:50",
+		"manageMessageWithArgs:" : "JulienDelplanque 8/31/2015 15:55",
+		"manageMessageWithoutArgs:" : "JulienDelplanque 8/31/2015 15:53" } }

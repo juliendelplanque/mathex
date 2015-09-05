@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Delimiters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"inside" ],
+	"name" : "MDelimiters",
+	"pools" : [
+		 ],
+	"super" : "MObject",
+	"type" : "normal" }

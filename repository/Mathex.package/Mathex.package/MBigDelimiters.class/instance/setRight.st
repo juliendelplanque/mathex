@@ -1,0 +1,3 @@
+accessing
+setRight
+	right := '\right'
