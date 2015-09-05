@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMathex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/5/2015 13:46",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMathex",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
