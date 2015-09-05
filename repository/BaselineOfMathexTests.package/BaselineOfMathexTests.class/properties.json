@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMathexTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMathexTests",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
