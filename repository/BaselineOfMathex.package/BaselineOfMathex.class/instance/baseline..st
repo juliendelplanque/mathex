@@ -6,5 +6,5 @@ baseline: spec
 		spec package: 'ConfigurationOfPillar' with: [
     		spec
 				repository: 'http://smalltalkhub.com/mc/Pier/Pillar/main';
-				postLoadDo: #installLatexExporter ].
+				postLoadDoIt: #installLatexExporter ].
 		spec package: #'Mathex' ].
