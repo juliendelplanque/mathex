@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-MathexObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/6/2015 14:31",
+	"instvars" : [
+		"character" ],
+	"name" : "MCharacter",
+	"pools" : [
+		 ],
+	"super" : "MObject",
+	"type" : "normal" }
