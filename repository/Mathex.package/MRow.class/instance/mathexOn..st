@@ -1,9 +1,9 @@
 stream out
-on: aPRStream
+mathexOn: aPRStream
 	| canvas |
 	canvas := PRLaTeXCanvas on: aPRStream.
 	self collection doWithIndex: [ :e :i |
-		e asMathex on: aPRStream.
+		e asMathex mathexOn: aPRStream.
 		(i = self collection size)
 			ifFalse: [
 				canvas raw: '&' ] ]

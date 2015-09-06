@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 9/4/2015 18:27",
+	"commentStamp" : "JulienDelplanque 9/6/2015 13:01",
 	"instvars" : [
-		"number" ],
-	"name" : "MNumber",
+		"blockClosure" ],
+	"name" : "MBlockClosure",
 	"pools" : [
 		 ],
 	"super" : "MObject",

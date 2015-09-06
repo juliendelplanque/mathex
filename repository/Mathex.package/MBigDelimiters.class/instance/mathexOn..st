@@ -1,11 +1,11 @@
 stream out
-on: aPRStream
+mathexOn: aPRStream
 	| canvas  |
 	canvas := PRLaTeXCanvas on: aPRStream.
 	canvas
 		raw: self leftDelimiter;
 		raw: self inside leftDelimiter.
-	self inside inside on: aPRStream.
+	self inside inside mathexOn: aPRStream.
 	canvas
 		raw: self rightDelimiter;
 		raw: self inside rightDelimiter.

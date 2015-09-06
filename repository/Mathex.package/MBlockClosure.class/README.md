@@ -1,0 +1,1 @@
+I am the block representation for MObjects so it is possible to call command on blocks.

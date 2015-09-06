@@ -1,3 +1,3 @@
 stream out
-on: aPRStream
+mathexOn: aPRStream
 	self subclassResponsibility

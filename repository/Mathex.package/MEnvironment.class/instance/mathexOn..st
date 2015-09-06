@@ -1,8 +1,8 @@
 stream out
-on: aPRStream
+mathexOn: aPRStream
 	| canvas env |
 	canvas := PRLaTeXCanvas on: aPRStream.
 	env := canvas environment name: self environmentName.
 	self parameters do: [ :param | env parameter: param asString ].
-	env with: [ inside on: aPRStream ].
+	env with: [ inside mathexOn: aPRStream ].
 	canvas flush

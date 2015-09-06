@@ -8,6 +8,6 @@ SystemOrganization addCategory: 'Mathex-Environments'!
 SystemOrganization addCategory: 'Mathex-Exceptions'!
 SystemOrganization addCategory: 'Mathex-Functions'!
 SystemOrganization addCategory: 'Mathex-GreekLetters'!
+SystemOrganization addCategory: 'Mathex-MathexObjects'!
 SystemOrganization addCategory: 'Mathex-Matrix'!
-SystemOrganization addCategory: 'Mathex-Numbers'!
 SystemOrganization addCategory: 'Mathex-Relations'!

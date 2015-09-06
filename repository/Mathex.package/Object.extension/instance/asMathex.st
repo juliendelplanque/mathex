@@ -1,0 +1,3 @@
+*Mathex
+asMathex
+	self subclassResponsibility

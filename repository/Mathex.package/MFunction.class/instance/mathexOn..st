@@ -1,5 +1,5 @@
 stream out
-on: aPRStream
+mathexOn: aPRStream
 	| canvas |
 	canvas := PRLaTeXCanvas on: aPRStream.
 	canvas command
