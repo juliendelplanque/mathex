@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/6/2015 14:41",
+	"instvars" : [
+		 ],
+	"name" : "MTextrm",
+	"pools" : [
+		 ],
+	"super" : "MCommand",
+	"type" : "normal" }
