@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testContents
 	| array |
 	array := MArray new.
