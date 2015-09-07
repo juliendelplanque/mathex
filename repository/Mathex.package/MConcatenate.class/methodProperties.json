@@ -1,6 +1,6 @@
 {
 	"class" : {
-		 },
+		"isUsable" : "JulienDelplanque 9/7/2015 12:10" },
 	"instance" : {
 		"initialize" : "JulienDelplanque 9/6/2015 15:08",
 		"mathexOn:" : "JulienDelplanque 9/6/2015 15:09",

@@ -1,4 +1,4 @@
-as yet unclassified
+stream out
 mathexOn: aPRStream
 	| canvas |
 	canvas := PRLaTeXCanvas on: aPRStream.

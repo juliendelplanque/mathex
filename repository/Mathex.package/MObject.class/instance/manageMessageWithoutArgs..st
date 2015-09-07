@@ -2,7 +2,7 @@ unknown messages handling
 manageMessageWithoutArgs: aMessage
 	| classWanted subclassesNames class |
 	classWanted := ('M' , aMessage selector asCamelCase) asSymbol.
-	subclassesNames := MObject allNonAbstractSubclassesNames.
+	subclassesNames := MObject allUsableSubclassesNames.
 	(subclassesNames anySatisfy: [ :className | className = classWanted  ])
 		ifTrue: [
 			| instance |
