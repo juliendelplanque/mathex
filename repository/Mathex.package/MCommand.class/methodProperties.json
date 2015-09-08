@@ -1,8 +1,9 @@
 {
 	"class" : {
-		"allNonAbstractSubclassesNames" : "JulienDelplanque 8/31/2015 11:02" },
+		"allNonAbstractSubclassesNames" : "JulienDelplanque 8/31/2015 11:02",
+		"commandName" : "JulienDelplanque 9/8/2015 10:40" },
 	"instance" : {
-		"commandName" : "JulienDelplanque 8/28/2015 14:51",
+		"commandName" : "JulienDelplanque 9/8/2015 10:41",
 		"gtTreeCodeOn:" : "JulienDelplanque 9/4/2015 14:00",
 		"initialize" : "JulienDelplanque 8/28/2015 14:57",
 		"mathexOn:" : "JulienDelplanque 9/6/2015 12:38",

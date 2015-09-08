@@ -1,3 +1,3 @@
 accessing
 commandName
-	^self subclassResponsibility
+	^self class commandName
