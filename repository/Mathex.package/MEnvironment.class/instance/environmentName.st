@@ -1,3 +1,3 @@
 accessing
 environmentName
-	self subclassResponsibility
+	^self class environmentName
