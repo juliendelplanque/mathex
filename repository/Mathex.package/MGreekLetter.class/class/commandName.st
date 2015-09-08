@@ -1,3 +1,4 @@
 accessing
 commandName
-	^self letter
+	"Since the command name depends of the letter."
+	self shouldNotImplement

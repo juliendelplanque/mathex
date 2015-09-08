@@ -1,3 +1,3 @@
 accessing
 parameterCount
-	^self subclassResponsibility
+	^self class parameterCount
