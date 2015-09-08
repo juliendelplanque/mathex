@@ -1,3 +1,3 @@
 accessing
 operator
-	^self subclassResponsibility
+	^self class operator

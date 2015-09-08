@@ -1,12 +1,13 @@
 {
 	"class" : {
 		"allNonAbstractSubclassesNames" : "JulienDelplanque 8/31/2015 11:02",
-		"leftParameter:rightParameter:" : "JulienDelplanque 8/31/2015 10:00" },
+		"leftParameter:rightParameter:" : "JulienDelplanque 8/31/2015 10:00",
+		"operator" : "JulienDelplanque 9/8/2015 10:54" },
 	"instance" : {
 		"leftParameter" : "JulienDelplanque 8/31/2015 09:54",
 		"leftParameter:" : "JulienDelplanque 8/31/2015 09:54",
 		"mathexOn:" : "JulienDelplanque 9/6/2015 12:40",
-		"operator" : "JulienDelplanque 8/31/2015 09:53",
+		"operator" : "JulienDelplanque 9/8/2015 10:54",
 		"parameter:" : "JulienDelplanque 8/31/2015 11:27",
 		"rightParameter" : "JulienDelplanque 8/31/2015 09:54",
 		"rightParameter:" : "JulienDelplanque 8/31/2015 09:54" } }
