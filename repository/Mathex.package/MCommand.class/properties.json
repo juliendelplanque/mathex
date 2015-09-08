@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 8/31/2015 11:40",
 	"instvars" : [
-		"parameters" ],
+		"parameters",
+		"optParameters" ],
 	"name" : "MCommand",
 	"pools" : [
 		 ],

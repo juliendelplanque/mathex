@@ -1,4 +1,5 @@
 initialization
 initialize
 	super initialize.
-	parameters := OrderedCollection new
+	parameters := OrderedCollection new.
+	optParameters := OrderedCollection new.
