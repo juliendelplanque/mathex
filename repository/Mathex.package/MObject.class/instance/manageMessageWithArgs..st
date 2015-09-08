@@ -10,8 +10,8 @@ manageMessageWithArgs: aMessage
 			class := Smalltalk at: classWanted.
 			instance := class new.
 			(MEnvironment allSubclasses anySatisfy: [ :c | c = class ])
-				ifTrue: [ instance inside: self; yourself ]
-				ifFalse: [ instance parameter: self; yourself ].
+				ifTrue: [ instance inside: self ]
+				ifFalse: [ instance parameter: self ].
 			aMessage arguments do: [ :arg | instance parameter: arg ].
 			^instance ].
 	^ super doesNotUnderstand: aMessage

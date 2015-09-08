@@ -1,3 +1,3 @@
-as yet unclassified
+stream out
 mathexOn: aPRStream
 	(MTextrm new parameter: string) mathexOn: aPRStream
