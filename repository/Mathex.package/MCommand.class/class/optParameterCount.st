@@ -1,0 +1,3 @@
+accessing
+optParameterCount
+	^self subclassResponsibility

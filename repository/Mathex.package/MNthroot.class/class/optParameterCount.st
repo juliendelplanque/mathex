@@ -1,0 +1,3 @@
+accessing
+optParameterCount
+	^1
