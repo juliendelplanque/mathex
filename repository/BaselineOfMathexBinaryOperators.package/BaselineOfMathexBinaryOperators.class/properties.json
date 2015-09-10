@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMathexBinaryOperators",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMathexBinaryOperators",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
