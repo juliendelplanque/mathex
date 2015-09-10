@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"isUsable" : "JulienDelplanque 9/7/2015 12:10" },
+		"isUsable" : "JulienDelplanque 9/7/2015 12:10",
+		"selector" : "JulienDelplanque 9/10/2015 09:58" },
 	"instance" : {
 		"initialize" : "JulienDelplanque 8/31/2015 18:56",
 		"inside:" : "JulienDelplanque 8/31/2015 20:22",

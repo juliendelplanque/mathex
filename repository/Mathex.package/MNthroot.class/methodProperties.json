@@ -1,9 +1,10 @@
 {
 	"class" : {
-		"commandName" : "JulienDelplanque 9/8/2015 13:38",
+		"commandName" : "JulienDelplanque 9/10/2015 10:25",
 		"isUsable" : "JulienDelplanque 9/7/2015 12:10",
 		"optParameterCount" : "JulienDelplanque 9/9/2015 10:09",
-		"parameterCount" : "JulienDelplanque 9/10/2015 09:16" },
+		"parameterCount" : "JulienDelplanque 9/10/2015 09:16",
+		"selector" : "JulienDelplanque 9/10/2015 10:25" },
 	"instance" : {
 		"initialize" : "JulienDelplanque 9/10/2015 09:22",
 		"parameter:" : "JulienDelplanque 9/10/2015 09:24" } }

@@ -1,15 +1,12 @@
 unknown messages handling
 manageMessageWithoutArgs: aMessage
-	| classWanted subclassesNames class |
-	classWanted := ('M' , aMessage selector asCamelCase) asSymbol.
-	subclassesNames := MObject allUsableSubclassesNames.
-	(subclassesNames anySatisfy: [ :className | className = classWanted  ])
-		ifTrue: [
-			| instance |
-			class := Smalltalk at: classWanted.
-			instance := class new.
-			(MEnvironment allSubclasses anySatisfy: [ :c | c = class ])
-				ifTrue: [ instance inside: self ]
-				ifFalse: [ instance parameter: self ].
-			^instance ].
-	^ super doesNotUnderstand: aMessage
+	| subclasses classFound instance |
+	subclasses := MObject allUsableSubclasses.
+	classFound := [ (subclasses select: [ :class | class selector = aMessage selector ]) first ]
+							on: SubscriptOutOfBounds
+							do: [ ^ super doesNotUnderstand: aMessage ].
+	instance := classFound new.
+	(MEnvironment allSubclasses anySatisfy: [ :c | c = classFound ])
+		ifTrue: [ instance inside: self ]
+		ifFalse: [ instance parameter: self ].
+	^instance
