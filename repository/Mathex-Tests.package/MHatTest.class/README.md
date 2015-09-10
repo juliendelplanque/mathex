@@ -1,0 +1,1 @@
+A MHatTest is a test class for testing the behavior of MHat
