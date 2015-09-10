@@ -1,0 +1,1 @@
+I represent a Mathex object that will be created from JSON data.
