@@ -1,3 +1,6 @@
 stream out
 mathexOn: aPRStream
-	(MTextrm new parameter: string) mathexOn: aPRStream
+	| canvas |
+	canvas := PRLaTeXCanvas on: aPRStream.
+	canvas
+		raw: self string.
