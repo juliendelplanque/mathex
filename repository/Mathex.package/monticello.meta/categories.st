@@ -11,5 +11,5 @@ SystemOrganization addCategory: 'Mathex-Functions'!
 SystemOrganization addCategory: 'Mathex-GreekLetters'!
 SystemOrganization addCategory: 'Mathex-MathexObjects'!
 SystemOrganization addCategory: 'Mathex-Matrix'!
-SystemOrganization addCategory: 'Mathex-Relations'!
+SystemOrganization addCategory: 'Mathex-RelationsCore'!
 SystemOrganization addCategory: 'Mathex-Spaces'!
