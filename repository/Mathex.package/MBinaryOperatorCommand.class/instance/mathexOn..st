@@ -2,7 +2,7 @@ stream out
 mathexOn: aPRStream
 	| canvas |
 	canvas := PRLaTeXCanvas on: aPRStream.
-	self leftParameter mathexOn: aPRStream.
+	self leftParameter ifNotNil: [ self leftParameter mathexOn: aPRStream ].
 	canvas command name: self operator.
-	self rightParameter mathexOn: aPRStream.
+	self rightParameter ifNotNil: [ self rightParameter mathexOn: aPRStream ].
 	canvas flush
