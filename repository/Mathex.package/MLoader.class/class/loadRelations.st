@@ -4,3 +4,4 @@ loadRelations
     baseline: 'MathexRelations';
     repository: self repositoryUrl;
     load.
+	self informPackageLoaded: 'Mathex-Relations'

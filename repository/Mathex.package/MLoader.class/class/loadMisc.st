@@ -4,3 +4,4 @@ loadMisc
     baseline: 'MathexMisc';
     repository: self repositoryUrl;
     load.
+	self informPackageLoaded: 'Mathex-Misc'
