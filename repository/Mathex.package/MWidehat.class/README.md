@@ -1,0 +1,1 @@
+I represent the \widehat command.

@@ -1,4 +1,5 @@
 SystemOrganization addCategory: #Mathex!
+SystemOrganization addCategory: 'Mathex-Accents'!
 SystemOrganization addCategory: 'Mathex-Array'!
 SystemOrganization addCategory: 'Mathex-BinaryOperators'!
 SystemOrganization addCategory: 'Mathex-Commands'!

@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Accents",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/10/2015 15:29",
+	"instvars" : [
+		 ],
+	"name" : "MHat",
+	"pools" : [
+		 ],
+	"super" : "MCommand",
+	"type" : "normal" }
