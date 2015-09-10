@@ -1,3 +1,3 @@
 accessing
 parameterCount
-	^2
+	^1
