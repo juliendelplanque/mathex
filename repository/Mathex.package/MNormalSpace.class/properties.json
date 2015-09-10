@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Spaces",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/10/2015 11:35",
+	"instvars" : [
+		 ],
+	"name" : "MNormalSpace",
+	"pools" : [
+		 ],
+	"super" : "MBinaryOperatorCommand",
+	"type" : "normal" }
