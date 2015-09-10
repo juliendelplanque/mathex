@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Spaces",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/10/2015 13:57",
+	"instvars" : [
+		 ],
+	"name" : "MNegativeSpace",
+	"pools" : [
+		 ],
+	"super" : "MBinaryOperatorCommand",
+	"type" : "normal" }
