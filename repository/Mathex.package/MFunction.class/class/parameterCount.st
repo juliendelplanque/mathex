@@ -1,3 +1,0 @@
-accessing
-parameterCount
-	^Float infinity
