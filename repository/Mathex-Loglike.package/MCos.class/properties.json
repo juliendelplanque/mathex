@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Loglike",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MCos",
+	"pools" : [
+		 ],
+	"super" : "MCommand",
+	"type" : "normal" }
