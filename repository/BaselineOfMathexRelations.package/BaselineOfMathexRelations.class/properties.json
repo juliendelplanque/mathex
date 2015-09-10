@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMathexRelations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMathexRelations",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
