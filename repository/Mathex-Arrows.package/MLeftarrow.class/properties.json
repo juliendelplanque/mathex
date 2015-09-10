@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Arrows",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MLeftarrow",
+	"pools" : [
+		 ],
+	"super" : "MBinaryOperatorCommand",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Arrows",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MBigUpdownarrow",
+	"pools" : [
+		 ],
+	"super" : "MBinaryOperatorCommand",
+	"type" : "normal" }
