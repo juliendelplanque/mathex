@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Loader",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/11/2015 00:07",
+	"instvars" : [
+		 ],
+	"name" : "MLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
