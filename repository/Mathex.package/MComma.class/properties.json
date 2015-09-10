@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-BinaryOperatorsCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/10/2015 21:31",
+	"instvars" : [
+		 ],
+	"name" : "MComma",
+	"pools" : [
+		 ],
+	"super" : "MBinaryOperator",
+	"type" : "normal" }

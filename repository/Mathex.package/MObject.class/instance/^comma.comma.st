@@ -1,6 +1,6 @@
 operators
-, anObject
-	^MComma new
+,, anObject
+	^MConcatenate new
 		parameter: self;
 		parameter: anObject;
 		yourself
