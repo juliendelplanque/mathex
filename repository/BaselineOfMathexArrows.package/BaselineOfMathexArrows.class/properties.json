@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMathexArrows",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMathexArrows",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
