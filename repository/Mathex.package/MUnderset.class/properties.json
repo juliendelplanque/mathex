@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/10/2015 11:25",
+	"instvars" : [
+		 ],
+	"name" : "MUnderset",
+	"pools" : [
+		 ],
+	"super" : "MCommand",
+	"type" : "normal" }
