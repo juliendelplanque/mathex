@@ -21,7 +21,7 @@ $x asMathex.
 42 asMathex.
 (5 / 2) asMathex.
 2 asMathex sqrt.
-($e asMathex equal: $m) , $c power: 2. "#, is used to concatenate."
+($e asMathex equal: $m) ,, $c power: 2. "#,, is used to concatenate."
 ~~~
 
 ### Use greek letters:
