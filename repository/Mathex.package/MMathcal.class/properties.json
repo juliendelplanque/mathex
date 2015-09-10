@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/10/2015 11:05",
+	"instvars" : [
+		 ],
+	"name" : "MMathcal",
+	"pools" : [
+		 ],
+	"super" : "MCommand",
+	"type" : "normal" }
