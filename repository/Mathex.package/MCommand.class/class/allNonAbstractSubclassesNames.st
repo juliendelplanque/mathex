@@ -1,3 +1,0 @@
-private
-allNonAbstractSubclassesNames
-	^ self shouldNotImplement

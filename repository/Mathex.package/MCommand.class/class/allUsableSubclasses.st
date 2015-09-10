@@ -1,0 +1,3 @@
+private
+allUsableSubclasses
+	self shouldNotImplement
