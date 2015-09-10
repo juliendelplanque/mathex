@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMathexLoglike",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMathexLoglike",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
