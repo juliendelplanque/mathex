@@ -1,0 +1,1 @@
+A MNormalSpaceTest is a test class for testing the behavior of MNormalSpace
