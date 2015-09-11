@@ -60,4 +60,14 @@ $x asMathex equal: matrixOfResults.
 ((42 asMathex equal: 40) + 2) displayMath.
 ~~~
 
-And even more...
+## Load additional package
+Maybe you are looking for symbols or commands not available in Mathex package.
+No problem, here is how to load other available package:
+
+~~~
+MLoader loadArrow. "Load Mathex-Arrows"
+MLoader loadBinaryOperators. "Load Mathex-BinaryOperators"
+MLoader loadLoglike. "Load Mathex-Loglike"
+MLoader loadMisc. "Load Mathex-Misc"
+MLoader loadRelations. "Load Mathex-Relations."
+~~~
