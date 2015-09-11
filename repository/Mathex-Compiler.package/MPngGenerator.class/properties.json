@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/11/2015 19:09",
+	"instvars" : [
+		 ],
+	"name" : "MPngGenerator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

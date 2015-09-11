@@ -1,0 +1,16 @@
+{
+	"category" : "Mathex-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/11/2015 19:21",
+	"instvars" : [
+		"parameterDict",
+		"pdfFile",
+		"pngFile" ],
+	"name" : "MConvert",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
