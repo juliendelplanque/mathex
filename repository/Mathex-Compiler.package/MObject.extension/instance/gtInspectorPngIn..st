@@ -4,4 +4,5 @@ gtInspectorPngIn: composite
 
 	composite morph
 			title: 'Preview';
-			display: [ PNGReadWriter formFromStream: self generatePng readStream ]
+			display: [ [ PNGReadWriter formFromStream:  self generatePng readStream ]
+								on: FileDoesNotExist do: [ 'No preview available' ] ]
