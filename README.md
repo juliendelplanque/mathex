@@ -72,6 +72,14 @@ MLoader loadMisc. "Load Mathex-Misc"
 MLoader loadRelations. "Load Mathex-Relations"
 ~~~
 
+## Add GT-Inspector extensions
+To have a latex code preview and a tree view of Mathex objects,
+run the following code snippet in your image:
+
+~~~
+MLoader loadGTInspectorExtensions.
+~~~
+
 ## Add a preview of the latex code compiled to GT-Inspector
 **This feature is only available on linux!**
 
