@@ -8,7 +8,7 @@ baseline: spec
 				spec
 					className: #ConfigurationOfOSProcess;
 					versionString: #stable;
-					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo40/main/' ].
+					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo30/main/' ].
 		spec baseline: 'Mathex' with: [
     		spec repository: 'github://juliendelplanque/mathex/repository' ].
 		spec package: #'Mathex-Compiler' ].
