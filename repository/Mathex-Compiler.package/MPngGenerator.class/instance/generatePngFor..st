@@ -1,7 +1,7 @@
 as yet unclassified
 generatePngFor: aMathexObject
 	| pdfFile convert |
-	(FileLocator temp / 'mathex') deleteAllChildren.
+	(FileLocator temp / 'mathex') exists ifTrue: [ (FileLocator temp / 'mathex') deleteAllChildren ].
 	pdfFile := self generatePdfFrom: aMathexObject in: FileLocator temp / 'mathex'.
 	convert := MConvert new.
 	convert
