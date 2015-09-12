@@ -73,6 +73,13 @@ MLoader loadRelations. "Load Mathex-Relations"
 ~~~
 
 ## Add a preview of the latex code compiled to GT-Inspector
+**This feature is only available on linux!**
+
+### What you need on your system
+- pdflatex
+- convert
+
+### Load the package in your image
 ~~~
 MLoader loadCompiler. "Load Mathex-Compiler"
 ~~~
