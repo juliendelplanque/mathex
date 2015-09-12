@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMathexGTInspector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMathexGTInspector",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
