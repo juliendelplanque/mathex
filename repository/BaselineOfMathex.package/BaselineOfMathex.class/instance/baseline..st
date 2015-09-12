@@ -7,5 +7,6 @@ baseline: spec
     		spec
 				repository: 'http://smalltalkhub.com/mc/Pier/Pillar/main';
 				postLoadDoIt: #installLatexExporter ].
-		spec package: #'Mathex';
-			postLoadDoIt: #installGTInspectorExtensions ].
+		spec baseline: 'MathexGTInspector' with: [
+    		spec repository: 'github://juliendelplanque/mathex/repository' ].
+		spec package: #'Mathex' ].
