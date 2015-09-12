@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMathexCompiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMathexCompiler",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
