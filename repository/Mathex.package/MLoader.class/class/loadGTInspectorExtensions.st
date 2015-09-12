@@ -1,6 +1,6 @@
 loading
 loadGTInspectorExtensions
 	Metacello new
-    	baseline: 'Mathex-GTInspector';
+    	baseline: 'MathexGTInspector';
     	repository: 'github://juliendelplanque/mathex/repository';
     	load.
