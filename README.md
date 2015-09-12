@@ -69,5 +69,13 @@ MLoader loadArrow. "Load Mathex-Arrows"
 MLoader loadBinaryOperators. "Load Mathex-BinaryOperators"
 MLoader loadLoglike. "Load Mathex-Loglike"
 MLoader loadMisc. "Load Mathex-Misc"
-MLoader loadRelations. "Load Mathex-Relations."
+MLoader loadRelations. "Load Mathex-Relations"
 ~~~
+
+## Add a preview of the latex code compiled to GT-Inspector
+~~~
+MLoader loadCompiler. "Load Mathex-Compiler"
+~~~
+
+And now you have a preview in the GT-Inspector:
+![Mathex-preview](http://img11.hostingpics.net/pics/790899Mathex.png)
