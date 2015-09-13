@@ -1,0 +1,1 @@
+I am the object used to rewrite Smalltalk code that use mathex in order to add message sending using #asMathex on literals.
