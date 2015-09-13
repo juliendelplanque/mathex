@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Rewriter-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rewriter" ],
+	"name" : "MRewriterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
