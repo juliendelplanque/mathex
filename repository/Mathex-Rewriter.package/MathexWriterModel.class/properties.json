@@ -1,0 +1,21 @@
+{
+	"category" : "Mathex-Rewriter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/15/2015 11:21",
+	"instvars" : [
+		"mathexTextModel",
+		"smalltalkTextModel",
+		"generationButton",
+		"rewriter",
+		"menu",
+		"inspectButton",
+		"fileNameInput",
+		"latexResultModel" ],
+	"name" : "MathexWriterModel",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }
