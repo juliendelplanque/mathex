@@ -1,4 +1,4 @@
-as yet unclassified
+reflective operations
 doesNotUnderstand: aMessage
 	self allUsableSubclasses
 		detect: [ :class | class symbol = aMessage selector ]
