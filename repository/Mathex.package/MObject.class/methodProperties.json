@@ -1,8 +1,10 @@
 {
 	"class" : {
 		"allUsableSubclasses" : "JulienDelplanque 9/10/2015 10:05",
+		"doesNotUnderstand:" : "JulienDelplanque 9/18/2015 06:55",
 		"isUsable" : "JulienDelplanque 9/7/2015 12:06",
-		"selector" : "JulienDelplanque 9/10/2015 09:39" },
+		"selector" : "JulienDelplanque 9/10/2015 09:39",
+		"symbol" : "JulienDelplanque 9/18/2015 06:58" },
 	"instance" : {
 		"+" : "JulienDelplanque 9/4/2015 09:25",
 		"," : "JulienDelplanque 9/10/2015 21:33",
