@@ -1,0 +1,3 @@
+command registering
+unregisterCommandNamed: aSymbol
+	RegisteredCommandsDict removeKey: aSymbol

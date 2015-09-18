@@ -4,7 +4,7 @@ manageMessageWithoutArgs: aMessage
 	subclasses := MObject allUsableSubclasses.
 	classFound := [ (subclasses select: [ :class | class selector = aMessage selector ]) first ]
 							on: SubscriptOutOfBounds
-							do: [ ^ super doesNotUnderstand: aMessage ].
+							do: [ ^ self manageRegisteredCommand: aMessage ].
 	instance := classFound new.
 	(MEnvironment allSubclasses anySatisfy: [ :c | c = classFound ])
 		ifTrue: [ instance inside: self ]
