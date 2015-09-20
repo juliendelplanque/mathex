@@ -14,7 +14,7 @@
 		"inspectButton",
 		"fileNameInput",
 		"latexResultModel" ],
-	"name" : "MathexWriterModel",
+	"name" : "MRewriterModel",
 	"pools" : [
 		 ],
 	"super" : "ComposableModel",
