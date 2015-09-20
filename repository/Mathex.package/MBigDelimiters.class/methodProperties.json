@@ -1,13 +1,15 @@
 {
 	"class" : {
 		"isUsable" : "JulienDelplanque 9/7/2015 12:10",
+		"leftDelimiter" : "JulienDelplanque 9/20/2015 17:41",
+		"rightDelimiter" : "JulienDelplanque 9/20/2015 17:41",
 		"selector" : "JulienDelplanque 9/10/2015 09:58" },
 	"instance" : {
 		"initialize" : "JulienDelplanque 8/31/2015 18:56",
 		"inside:" : "JulienDelplanque 8/31/2015 20:22",
-		"leftDelimiter" : "JulienDelplanque 8/31/2015 18:54",
-		"mathexOn:" : "JulienDelplanque 9/6/2015 12:42",
-		"rightDelimiter" : "JulienDelplanque 8/31/2015 18:54",
+		"left" : "JulienDelplanque 9/20/2015 17:43",
+		"mathexOn:" : "JulienDelplanque 9/20/2015 17:42",
+		"right" : "JulienDelplanque 9/20/2015 17:43",
 		"setLeft" : "JulienDelplanque 8/31/2015 18:55",
 		"setLeftNull" : "JulienDelplanque 8/31/2015 18:55",
 		"setRight" : "JulienDelplanque 8/31/2015 18:55",

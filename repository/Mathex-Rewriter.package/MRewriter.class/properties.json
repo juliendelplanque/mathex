@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Rewriter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/13/2015 09:04",
+	"instvars" : [
+		"rewriter" ],
+	"name" : "MRewriter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

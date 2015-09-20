@@ -1,6 +1,10 @@
 # Mathex
 A framework to generate latex math code from Pharo.
 
+If you are looking for additionnal informations that are not on the README,
+you can check the [wiki](https://github.com/juliendelplanque/mathex/wiki) 
+that will be maintained up-to-date as much as possible.
+
 ## Install me
 Execute the following code snippet in your image:
 
@@ -65,7 +69,7 @@ Maybe you are looking for symbols or commands not available in Mathex package.
 No problem, here is how to load other available package:
 
 ~~~
-MLoader loadArrow. "Load Mathex-Arrows"
+MLoader loadArrows. "Load Mathex-Arrows"
 MLoader loadBinaryOperators. "Load Mathex-BinaryOperators"
 MLoader loadLoglike. "Load Mathex-Loglike"
 MLoader loadMisc. "Load Mathex-Misc"

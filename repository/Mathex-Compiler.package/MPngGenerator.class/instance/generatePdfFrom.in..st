@@ -1,4 +1,4 @@
-as yet unclassified
+generation
 generatePdfFrom: aMathexObject in: aDirectory
 	| pdflatex latexToCompile |
 	pdflatex := MPdflatex new.
@@ -9,4 +9,4 @@ generatePdfFrom: aMathexObject in: aDirectory
 	Transcript show: 'echo ''' , latexToCompile , ''' | ' , pdflatex createCommand; cr.
 	OSProcess waitForCommand: 'echo ''' , latexToCompile , ''' | ' , pdflatex createCommand.
 	
-	^aDirectory / 'standalone.pdf'
+	^aDirectory / 'texput.pdf'

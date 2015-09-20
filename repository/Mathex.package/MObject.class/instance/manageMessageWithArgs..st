@@ -4,9 +4,9 @@ manageMessageWithArgs: aMessage
 	i := aMessage selector size - 1. "index of ':'".
 	baseSelector := (aMessage selector copyFrom: 1 to: i) asSymbol.
 	subclasses := MObject allUsableSubclasses.
-	classFound := [ (subclasses select: [ :class | class selector = aMessage selector ]) first ]
-							on: SubscriptOutOfBounds
-							do: [ ^ super doesNotUnderstand: aMessage ].
+	classFound := subclasses
+							detect: [ :class | class selector = aMessage selector ]
+							ifNone: [ ^ self manageRegisteredCommand: aMessage ].
 	instance := classFound new.
 	(MEnvironment allSubclasses anySatisfy: [ :c | c = classFound ])
 		ifTrue: [ instance inside: self ]

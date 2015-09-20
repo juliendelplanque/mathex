@@ -1,10 +1,10 @@
 {
 	"class" : {
-		"inside:" : "JulienDelplanque 8/31/2015 18:33" },
+		"inside:" : "JulienDelplanque 8/31/2015 18:33",
+		"leftDelimiter" : "JulienDelplanque 9/20/2015 17:38",
+		"rightDelimiter" : "JulienDelplanque 9/20/2015 17:38" },
 	"instance" : {
 		"inside" : "JulienDelplanque 8/31/2015 18:42",
 		"inside:" : "JulienDelplanque 8/31/2015 18:42",
-		"leftDelimiter" : "JulienDelplanque 8/31/2015 18:31",
-		"mathexOn:" : "JulienDelplanque 9/6/2015 12:42",
-		"parameter:" : "JulienDelplanque 8/31/2015 18:42",
-		"rightDelimiter" : "JulienDelplanque 8/31/2015 18:31" } }
+		"mathexOn:" : "JulienDelplanque 9/20/2015 17:38",
+		"parameter:" : "JulienDelplanque 8/31/2015 18:42" } }

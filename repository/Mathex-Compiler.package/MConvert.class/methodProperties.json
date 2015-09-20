@@ -2,6 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"createCommand" : "JulienDelplanque 9/11/2015 19:46",
+		"createCommand" : "JulienDelplanque 9/14/2015 15:00",
+		"density" : "JulienDelplanque 9/14/2015 14:59",
+		"density:" : "JulienDelplanque 9/14/2015 14:58",
+		"pdfFile" : "JulienDelplanque 9/14/2015 14:59",
 		"pdfFile:" : "JulienDelplanque 9/11/2015 19:40",
-		"pngFile:" : "JulienDelplanque 9/11/2015 19:40" } }
+		"pngFile" : "JulienDelplanque 9/14/2015 14:59",
+		"pngFile:" : "JulienDelplanque 9/11/2015 19:40",
+		"quality" : "JulienDelplanque 9/14/2015 14:59",
+		"quality:" : "JulienDelplanque 9/14/2015 14:58" } }

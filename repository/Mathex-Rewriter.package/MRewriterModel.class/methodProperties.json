@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"defaultSpec" : "JulienDelplanque 9/15/2015 13:20",
+		"mathexMenuCommandOn:" : "JulienDelplanque 9/20/2015 16:25",
+		"title" : "JulienDelplanque 9/14/2015 15:51" },
+	"instance" : {
+		"fileNameInput" : "JulienDelplanque 9/15/2015 12:56",
+		"generateLaTex" : "JulienDelplanque 9/15/2015 11:09",
+		"generationButton" : "JulienDelplanque 9/14/2015 15:43",
+		"initialExtent" : "JulienDelplanque 9/15/2015 08:42",
+		"initialize" : "JulienDelplanque 9/14/2015 21:57",
+		"initializeTextModels" : "JulienDelplanque 9/15/2015 13:16",
+		"initializeWidgets" : "JulienDelplanque 9/15/2015 13:17",
+		"inspectButton" : "JulienDelplanque 9/15/2015 08:56",
+		"latexLabel" : "JulienDelplanque 9/15/2015 13:20",
+		"latexResultModel" : "JulienDelplanque 9/15/2015 13:16",
+		"mathexSmalltalkLabel" : "JulienDelplanque 9/15/2015 14:21",
+		"mathexTextModel" : "JulienDelplanque 9/14/2015 15:30",
+		"regularSmalltalkLabel" : "JulienDelplanque 9/15/2015 13:12",
+		"rewrite:" : "JulienDelplanque 9/14/2015 21:57",
+		"smalltalkTextModel" : "JulienDelplanque 9/14/2015 15:32" } }

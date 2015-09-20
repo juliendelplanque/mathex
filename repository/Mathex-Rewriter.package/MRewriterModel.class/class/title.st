@@ -1,0 +1,3 @@
+specs
+title
+	^'Mathex Editor'

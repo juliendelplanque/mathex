@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 9/11/2015 19:21",
 	"instvars" : [
-		"parameterDict",
 		"pdfFile",
-		"pngFile" ],
+		"pngFile",
+		"quality",
+		"density" ],
 	"name" : "MConvert",
 	"pools" : [
 		 ],

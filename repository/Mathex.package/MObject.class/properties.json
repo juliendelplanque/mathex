@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"RegisteredCommandsDict" ],
 	"commentStamp" : "JulienDelplanque 8/31/2015 18:03",
 	"instvars" : [
 		 ],

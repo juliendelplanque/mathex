@@ -3,9 +3,9 @@ mathexOn: aPRStream
 	| canvas |
 	canvas := PRLaTeXCanvas on: aPRStream.
 	canvas
-		raw: delimiters leftDelimiter;
-		raw: delimiters inside leftDelimiter.
+		raw: delimiters left;
+		raw: delimiters inside class leftDelimiter.
 	super mathexOn: aPRStream.
 	canvas
-		raw: delimiters rightDelimiter;
-		raw: delimiters inside rightDelimiter.
+		raw: delimiters right;
+		raw: delimiters inside class rightDelimiter.

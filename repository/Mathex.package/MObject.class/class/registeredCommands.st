@@ -1,0 +1,3 @@
+command registering
+registeredCommands
+	^ RegisteredCommandsDict keys

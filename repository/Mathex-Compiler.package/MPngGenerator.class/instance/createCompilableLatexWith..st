@@ -1,3 +1,13 @@
-as yet unclassified
+generation
 createCompilableLatexWith: aMathexObject
-	^'\documentclass[preview]{standalone}\begin{document}' , (aMathexObject contents select: [ :c | c ~= Character cr and: [ c ~= Character lf ] ]) , '\end{document}'
+	| stream canvas |
+	stream := PROutputStream on: String new writeStream. 
+	stream configuration: PRCocoonConfiguration new.
+	canvas := PRLaTeXCanvas on: stream.
+	(canvas command name: 'documentclass')
+		optParameter: 'preview';
+		parameter: 'standalone'.
+	(canvas environment name: 'document')
+		with: [ (aMathexObject contents select: [ :c | c ~= Character cr and: [ c ~= Character lf ] ]) mathexOn: stream ].
+	canvas flush.
+	^ stream contents
