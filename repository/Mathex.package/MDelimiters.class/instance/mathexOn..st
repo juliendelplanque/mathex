@@ -3,8 +3,8 @@ mathexOn: aPRStream
 	| canvas  |
 	canvas := PRLaTeXCanvas on: aPRStream.
 	canvas
-		raw: self leftDelimiter.
+		raw: self class leftDelimiter.
 	self inside mathexOn: aPRStream.
 	canvas
-		raw: self rightDelimiter.
+		raw: self class rightDelimiter.
 	canvas flush
