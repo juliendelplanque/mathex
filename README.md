@@ -1,6 +1,10 @@
 # Mathex
 A framework to generate latex math code from Pharo.
 
+If you are looking for additionnal informations that are not on the README,
+you can check the [wiki](https://github.com/juliendelplanque/mathex/wiki) 
+that will be maintained up-to-date as much as possible.
+
 ## Install me
 Execute the following code snippet in your image:
 
