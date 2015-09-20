@@ -65,7 +65,7 @@ Maybe you are looking for symbols or commands not available in Mathex package.
 No problem, here is how to load other available package:
 
 ~~~
-MLoader loadArrow. "Load Mathex-Arrows"
+MLoader loadArrows. "Load Mathex-Arrows"
 MLoader loadBinaryOperators. "Load Mathex-BinaryOperators"
 MLoader loadLoglike. "Load Mathex-Loglike"
 MLoader loadMisc. "Load Mathex-Misc"
