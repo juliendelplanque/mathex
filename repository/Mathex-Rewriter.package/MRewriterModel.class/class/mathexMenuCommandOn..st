@@ -1,13 +1,13 @@
 world menu
 mathexMenuCommandOn: aBuilder
 	<worldMenu>
-	(aBuilder group: #MathexTools)
+	(aBuilder group: #'Mathex Tools')
 		withSeparatorAfter;
 		order: 10;
 		target: Smalltalk tools;
 		with: [
-			(aBuilder item: #'MathexWriter')
-				help: 'Open a MathexWriter';
+			(aBuilder item: #'Mathex Rewriter')
+				help: 'Open a MathexRewriter';
 				order: 1;
 				icon: Smalltalk ui icons editIcon;
 				action: [ self new openWithSpec. ] ]
