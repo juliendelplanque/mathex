@@ -1,3 +1,3 @@
 *Mathex-GTInspector
 gtTreeChildren
-	^self parameters collect: [ :param | param asMathex ]
+	^self parameters collect: #asMathex
