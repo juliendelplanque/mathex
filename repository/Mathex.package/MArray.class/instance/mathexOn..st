@@ -7,6 +7,6 @@ mathexOn: aPRStream
 	env with: [ self inside doWithIndex: [ :row :i |
 						row mathexOn: aPRStream.
 						(i = self inside size or: [ row class = MHLine ])
-							ifFalse: [ canvas command name: '\' ].
+							ifFalse: [ #newline asMathex mathexOn: aPRStream ].
 						canvas raw: ' ' ] ].
 	canvas flush
