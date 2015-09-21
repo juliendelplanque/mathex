@@ -1,14 +1,14 @@
 {
-	"category" : "Mathex-Commands",
+	"category" : "Mathex-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "JulienDelplanque 9/21/2015 09:20",
 	"instvars" : [
-		 ],
+		"parameter" ],
 	"name" : "MNewline",
 	"pools" : [
 		 ],
-	"super" : "MCommand",
+	"super" : "MObject",
 	"type" : "normal" }

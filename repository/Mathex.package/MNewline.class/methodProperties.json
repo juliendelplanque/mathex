@@ -1,9 +1,9 @@
 {
 	"class" : {
-		"commandName" : "JulienDelplanque 9/21/2015 09:19",
+		"allUsableSubclasses" : "JulienDelplanque 9/21/2015 09:28",
 		"isUsable" : "JulienDelplanque 9/21/2015 09:19",
-		"optParameterCount" : "JulienDelplanque 9/21/2015 09:20",
-		"parameterCount" : "JulienDelplanque 9/21/2015 09:20",
 		"selector" : "JulienDelplanque 9/21/2015 09:20" },
 	"instance" : {
-		 } }
+		"mathexOn:" : "JulienDelplanque 9/21/2015 09:30",
+		"parameter" : "JulienDelplanque 9/21/2015 09:29",
+		"parameter:" : "JulienDelplanque 9/21/2015 09:29" } }

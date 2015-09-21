@@ -1,3 +1,0 @@
-accessing
-optParameterCount
-	^0
