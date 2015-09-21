@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Pillar",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/21/2015 18:37",
+	"instvars" : [
+		 ],
+	"name" : "MMathexCanvas",
+	"pools" : [
+		 ],
+	"super" : "PRLaTeXCanvas",
+	"type" : "normal" }
