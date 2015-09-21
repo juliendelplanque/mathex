@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-AMS-Environments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/21/2015 09:14",
+	"instvars" : [
+		"star" ],
+	"name" : "MAMSEnvironment",
+	"pools" : [
+		 ],
+	"super" : "MEnvironment",
+	"type" : "normal" }

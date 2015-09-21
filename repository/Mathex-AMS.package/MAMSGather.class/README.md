@@ -1,0 +1,1 @@
+I represent gather and gather* environments.

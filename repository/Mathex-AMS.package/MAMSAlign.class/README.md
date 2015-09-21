@@ -1,0 +1,1 @@
+I represent align and align* environments.

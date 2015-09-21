@@ -1,0 +1,1 @@
+I represent equation and equation* environments.
