@@ -6,4 +6,4 @@ mathexOn: aPRStream
 		e asMathex mathexOn: aPRStream.
 		(i = self collection size)
 			ifFalse: [
-				canvas raw: '&' ] ]
+				#rowand asMathex mathexOn: aPRStream ] ]
