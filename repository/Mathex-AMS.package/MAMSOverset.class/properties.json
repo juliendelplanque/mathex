@@ -7,7 +7,7 @@
 	"commentStamp" : "JulienDelplanque 9/21/2015 09:53",
 	"instvars" : [
 		 ],
-	"name" : "MUnderset",
+	"name" : "MAMSOverset",
 	"pools" : [
 		 ],
 	"super" : "MCommand",
