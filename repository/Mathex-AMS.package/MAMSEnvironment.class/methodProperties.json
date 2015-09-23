@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "JulienDelplanque 9/21/2015 07:08",
-		"mathexOn:" : "JulienDelplanque 9/21/2015 07:10",
-		"star" : "JulienDelplanque 9/21/2015 07:08",
-		"unStar" : "JulienDelplanque 9/21/2015 07:12" } }
+		"addRow:" : "JulienDelplanque 9/22/2015 08:25",
+		"initialize" : "JulienDelplanque 9/22/2015 08:35",
+		"mathexOn:" : "JulienDelplanque 9/22/2015 08:32",
+		"rows" : "JulienDelplanque 9/22/2015 08:25" } }

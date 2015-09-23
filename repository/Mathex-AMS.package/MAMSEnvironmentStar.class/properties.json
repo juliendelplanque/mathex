@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 9/21/2015 09:16",
+	"commentStamp" : "JulienDelplanque 9/22/2015 08:22",
 	"instvars" : [
-		 ],
-	"name" : "MAMSGather",
+		"star" ],
+	"name" : "MAMSEnvironmentStar",
 	"pools" : [
 		 ],
-	"super" : "MAMSEnvironmentStar",
+	"super" : "MAMSEnvironment",
 	"type" : "normal" }

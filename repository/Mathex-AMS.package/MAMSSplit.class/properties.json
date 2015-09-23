@@ -10,5 +10,5 @@
 	"name" : "MAMSSplit",
 	"pools" : [
 		 ],
-	"super" : "MEnvironment",
+	"super" : "MAMSEnvironment",
 	"type" : "normal" }

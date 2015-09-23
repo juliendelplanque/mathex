@@ -10,5 +10,5 @@
 	"name" : "MAMSAlignat",
 	"pools" : [
 		 ],
-	"super" : "MAMSEnvironment",
+	"super" : "MAMSEnvironmentStar",
 	"type" : "normal" }

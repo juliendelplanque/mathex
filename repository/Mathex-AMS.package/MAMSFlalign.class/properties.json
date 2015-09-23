@@ -10,5 +10,5 @@
 	"name" : "MAMSFlalign",
 	"pools" : [
 		 ],
-	"super" : "MAMSEnvironment",
+	"super" : "MAMSEnvironmentStar",
 	"type" : "normal" }
