@@ -2,7 +2,10 @@
 gtInspectorPngIn: composite
 	<gtInspectorPresentationOrder: 0>
 
-	composite morph
+	| morph |
+	morph := composite morph
 			title: 'Preview';
-			display: [ [ PNGReadWriter formFromStream:  self generatePng readStream ]
-								on: FileDoesNotExist do: [ 'No preview available' ] ]
+			display: [ 'Preparing preview...' ];
+			yourself.
+	
+	MPngGenerator new manageDisplayOn: composite morph: morph for: self compilableObject
