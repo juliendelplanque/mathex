@@ -8,6 +8,6 @@ generatePngFor: aMathexObject in: aDirectory
 	convert
 		pdfFile: pdfFile pathString;
 		pngFile: pngFile pathString.
-	Transcript show: convert createCommand.
+	
 	OSProcess waitForCommand: convert createCommand.
 	^pngFile
