@@ -1,4 +1,4 @@
-generation
+gt-inspector management
 manageDisplayOn: aComposite morph: aMorph for: aMathexObject
 	self
 		forkGeneratePngSilentlyFrom: aMathexObject

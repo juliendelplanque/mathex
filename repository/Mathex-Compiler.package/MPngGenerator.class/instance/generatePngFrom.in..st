@@ -1,5 +1,5 @@
 generation
-generatePngFor: aMathexObject in: aDirectory
+generatePngFrom: aMathexObject in: aDirectory
 	| pdfFile convert pngFile |
 	aDirectory exists ifTrue: [ aDirectory deleteAllChildren ].
 	pdfFile := self generatePdfFrom: aMathexObject in: aDirectory.

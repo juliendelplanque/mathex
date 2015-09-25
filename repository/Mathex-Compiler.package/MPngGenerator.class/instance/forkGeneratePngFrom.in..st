@@ -1,4 +1,4 @@
-generation
+generation - fork
 forkGeneratePngFrom: aMathexObject in: aDirectory
 	self
 		forkGeneratePngSilentlyFrom: aMathexObject
