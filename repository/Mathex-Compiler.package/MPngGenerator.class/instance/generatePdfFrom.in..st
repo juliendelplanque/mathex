@@ -12,7 +12,8 @@ generatePdfFrom: aMathexObject in: aDirectory
 								command: (self echoCommand: latexToCompile))
 												| (pdflatex createCommand)) output.
 	
-	(self wasSuccessful: pdflatexOutput on: (aDirectory / 'standalone.pdf'))
+	^self determinatePdfPath: pdflatexOutput
+	"(self wasSuccessful: pdflatexOutput on: (aDirectory / 'standalone.pdf'))
 		ifFalse: [ MCompilationError signal: pdflatexOutput ].
 	
-	^aDirectory / 'standalone.pdf'
+	^aDirectory / 'standalone.pdf'"
