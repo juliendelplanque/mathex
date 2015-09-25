@@ -12,7 +12,7 @@ generatePdfFrom: aMathexObject in: aDirectory
 								command: (self echoCommand: latexToCompile))
 												| (pdflatex createCommand)) output.
 	
-	(self wasSuccessful: pdflatexOutput on: (aDirectory / 'texput.pdf'))
+	(self wasSuccessful: pdflatexOutput on: (aDirectory / 'standalone.pdf'))
 		ifFalse: [ MCompilationError signal: pdflatexOutput ].
 	
-	^aDirectory / 'texput.pdf'
+	^aDirectory / 'standalone.pdf'
