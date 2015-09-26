@@ -32,10 +32,10 @@ $x asMathex.
 ~~~
 MGreekLetter Gamma equal: 42.
 ~~~
-Greek letters are also defined as globals:
+Greek letters can be used as symbols converted:
 
 ~~~
-Gamma equal: 42.
+ #gamma asMathex.
 ~~~
 
 ### Use the array environement:
