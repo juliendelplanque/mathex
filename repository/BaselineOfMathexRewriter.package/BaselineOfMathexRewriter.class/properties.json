@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMathexRewriter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMathexRewriter",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
