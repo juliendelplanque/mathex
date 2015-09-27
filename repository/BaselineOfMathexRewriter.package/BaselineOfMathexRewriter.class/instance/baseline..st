@@ -5,4 +5,6 @@ baseline: spec
 		spec blessing: #'baseline'.
 		spec baseline: 'Mathex' with: [
     		spec repository: 'github://juliendelplanque/mathex/repository' ].
+		spec baseline: 'MathexCompiler' with: [
+    		spec repository: 'github://juliendelplanque/mathex/repository' ].
 		spec package: #'Mathex-Rewriter' ].
