@@ -6,4 +6,4 @@ doesNotUnderstand: aMessage
 	
 	(self list anySatisfy: [ :letter | letter = aMessage selector ])
 		ifTrue: [ ^self new letter: aMessage selector ].
-	^ super doesNotUnderstand: aMessage
+	^ Object doesNotUnderstand: aMessage

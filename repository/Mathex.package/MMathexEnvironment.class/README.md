@@ -1,0 +1,1 @@
+An definition of LaTeX environment that does not add new lines.

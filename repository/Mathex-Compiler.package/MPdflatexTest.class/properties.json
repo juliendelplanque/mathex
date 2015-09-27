@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Compiler-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MPdflatexTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

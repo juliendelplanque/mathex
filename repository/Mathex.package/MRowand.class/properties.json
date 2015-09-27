@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-BinaryOperatorsCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/21/2015 12:24",
+	"instvars" : [
+		 ],
+	"name" : "MRowand",
+	"pools" : [
+		 ],
+	"super" : "MBinaryOperator",
+	"type" : "normal" }

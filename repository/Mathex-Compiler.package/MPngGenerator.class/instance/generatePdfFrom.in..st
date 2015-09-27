@@ -1,12 +1,15 @@
 generation
 generatePdfFrom: aMathexObject in: aDirectory
-	| pdflatex latexToCompile |
+	| pdflatex latexToCompile pdflatexOutput   |
+	AioEventHandler initializeAioPluginPresent.
 	pdflatex := MPdflatex new.
 	pdflatex parametersAt: 'output-directory' put: aDirectory pathString.
 	latexToCompile := self createCompilableLatexWith: aMathexObject.
 	aDirectory exists
 		ifFalse: [ aDirectory createDirectory ].
-	Transcript show: 'echo ''' , latexToCompile , ''' | ' , pdflatex createCommand; cr.
-	OSProcess waitForCommand: 'echo ''' , latexToCompile , ''' | ' , pdflatex createCommand.
+
+	pdflatexOutput := ((PipeableOSProcess
+								command: (self echoCommand: latexToCompile))
+												| (pdflatex createCommand)) output.
 	
-	^aDirectory / 'texput.pdf'
+	^self determinatePdfPath: pdflatexOutput

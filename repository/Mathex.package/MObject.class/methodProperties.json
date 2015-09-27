@@ -1,7 +1,8 @@
 {
 	"class" : {
 		"allUsableSubclasses" : "JulienDelplanque 9/10/2015 10:05",
-		"doesNotUnderstand:" : "JulienDelplanque 9/18/2015 06:55",
+		"canvas" : "JulienDelplanque 9/21/2015 18:33",
+		"doesNotUnderstand:" : "JulienDelplanque 9/25/2015 18:29",
 		"initialize" : "JulienDelplanque 9/20/2015 11:33",
 		"isUsable" : "JulienDelplanque 9/7/2015 12:06",
 		"register:asCommandNamed:" : "JulienDelplanque 9/18/2015 07:47",
@@ -12,6 +13,7 @@
 		"unregisterAllCommands" : "JulienDelplanque 9/18/2015 07:48",
 		"unregisterCommandNamed:" : "JulienDelplanque 9/18/2015 07:47" },
 	"instance" : {
+		"&" : "JulienDelplanque 9/21/2015 14:42",
 		"+" : "JulienDelplanque 9/4/2015 09:25",
 		"," : "JulienDelplanque 9/10/2015 21:33",
 		",," : "JulienDelplanque 9/10/2015 21:33",
@@ -21,6 +23,7 @@
 		"<" : "JulienDelplanque 9/4/2015 17:11",
 		">" : "JulienDelplanque 9/4/2015 17:11",
 		"asMathex" : "JulienDelplanque 9/5/2015 11:01",
+		"canvas" : "JulienDelplanque 9/21/2015 18:33",
 		"contents" : "JulienDelplanque 9/6/2015 12:36",
 		"doesNotUnderstand:" : "JulienDelplanque 8/31/2015 15:50",
 		"manageMessageWithArgs:" : "JulienDelplanque 9/18/2015 08:39",

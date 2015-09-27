@@ -1,7 +1,7 @@
 stream out
 mathexOn: aPRStream
 	| canvas |
-	canvas := PRLaTeXCanvas on: aPRStream.
+	canvas := self canvas on: aPRStream.
 	self leftParameter mathexOn: aPRStream.
 	canvas
 		raw: self operator;

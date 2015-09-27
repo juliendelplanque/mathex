@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/24/2015 18:50",
+	"instvars" : [
+		 ],
+	"name" : "MCompilationError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

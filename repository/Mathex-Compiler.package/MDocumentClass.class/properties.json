@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/25/2015 11:59",
+	"instvars" : [
+		 ],
+	"name" : "MDocumentClass",
+	"pools" : [
+		 ],
+	"super" : "MCommand",
+	"type" : "normal" }

@@ -12,5 +12,6 @@ SystemOrganization addCategory: 'Mathex-GreekLetters'!
 SystemOrganization addCategory: 'Mathex-Loader'!
 SystemOrganization addCategory: 'Mathex-MathexObjects'!
 SystemOrganization addCategory: 'Mathex-Matrix'!
+SystemOrganization addCategory: 'Mathex-Pillar'!
 SystemOrganization addCategory: 'Mathex-RelationsCore'!
 SystemOrganization addCategory: 'Mathex-Spaces'!

@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-AMS-Environments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/21/2015 09:15",
+	"instvars" : [
+		 ],
+	"name" : "MAMSFlalign",
+	"pools" : [
+		 ],
+	"super" : "MAMSEnvironmentStar",
+	"type" : "normal" }

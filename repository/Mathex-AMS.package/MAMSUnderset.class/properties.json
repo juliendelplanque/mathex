@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-AMS-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/21/2015 09:53",
+	"instvars" : [
+		 ],
+	"name" : "MAMSUnderset",
+	"pools" : [
+		 ],
+	"super" : "MCommand",
+	"type" : "normal" }

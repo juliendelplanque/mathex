@@ -1,0 +1,3 @@
+starring
+star
+	star := '*'
