@@ -1,0 +1,3 @@
+*Mathex-AMS
+visitMAMSEnvironment: aMAMASEnvironment
+	self subclassResponsibility
