@@ -2,4 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"initialize" : "JulienDelplanque 9/29/2015 16:10",
+		"visitMArray:" : "JulienDelplanque 9/29/2015 16:19",
+		"visitMBinaryOperator:" : "JulienDelplanque 9/29/2015 16:19",
+		"visitMBinaryOperatorCommand:" : "JulienDelplanque 9/29/2015 16:18",
+		"visitMBlockClosure:" : "JulienDelplanque 9/29/2015 16:18",
+		"visitMCharacter:" : "JulienDelplanque 9/29/2015 16:18" } }

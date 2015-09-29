@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 9/29/2015 15:57",
 	"instvars" : [
-		 ],
+		"stream" ],
 	"name" : "MLaTeXVisitor",
 	"pools" : [
 		 ],
