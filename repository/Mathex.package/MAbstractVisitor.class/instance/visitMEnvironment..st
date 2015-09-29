@@ -1,0 +1,3 @@
+visiting
+visitMEnvironment: aMEnvironment
+	self subclassResponsibility

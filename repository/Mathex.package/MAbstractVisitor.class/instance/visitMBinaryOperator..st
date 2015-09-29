@@ -1,0 +1,3 @@
+visiting
+visitMBinaryOperator: aMBinaryOperator
+	self subclassResponsibility

@@ -1,0 +1,3 @@
+visiting
+visitMCharacter: aMCharacter
+	self subclassResponsibility

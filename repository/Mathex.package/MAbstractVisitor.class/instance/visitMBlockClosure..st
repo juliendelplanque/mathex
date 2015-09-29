@@ -1,0 +1,3 @@
+visiting
+visitMBlockClosure: aMBlockClosure
+	self subclassResponsibility

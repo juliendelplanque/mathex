@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Visitors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/29/2015 15:57",
+	"instvars" : [
+		 ],
+	"name" : "MAbstractVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
