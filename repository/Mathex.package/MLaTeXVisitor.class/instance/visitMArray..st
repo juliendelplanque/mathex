@@ -3,7 +3,7 @@ visitMArray: aMArray
 	| canvas env |
 	canvas := aMArray canvas on: stream.
 	env := canvas environment name: aMArray environmentName.
-	aMArray parameters do: [ :param | env parameter: param asString ].
+	aMArray parameters do: [ :param | env parameter: param asMathex asString ].
 	env with: [ aMArray inside doWithIndex: [ :row :i |
 						row acceptVisitor: self.
 						(i = aMArray inside size or: [ row class = MHLine ])
