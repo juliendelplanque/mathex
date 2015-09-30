@@ -1,0 +1,1 @@
+This visitor find all LaTeX packages needed to be able to compile the generated LaTeX.

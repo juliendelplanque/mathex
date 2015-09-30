@@ -1,0 +1,3 @@
+visiting
+visitMBlockClosure: aMBlockClosure
+	dependencies addAll: aMBlockClosure class requestedPackages

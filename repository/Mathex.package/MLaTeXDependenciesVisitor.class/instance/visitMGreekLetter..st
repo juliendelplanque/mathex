@@ -1,0 +1,3 @@
+visiting
+visitMGreekLetter: aMGreekLetter
+	dependencies addAll: aMGreekLetter class requestedPackages
