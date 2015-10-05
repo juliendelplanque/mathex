@@ -1,5 +1,7 @@
 loading
 loadLoglike
+	<mathexExtension>
+	
 	Metacello new
     baseline: 'MathexLoglike';
     repository: self repositoryUrl;
