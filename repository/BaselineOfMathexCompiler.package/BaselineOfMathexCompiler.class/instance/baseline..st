@@ -11,6 +11,6 @@ baseline: spec
 					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo30/main/' ].
 		spec baseline: 'Mathex' with: [
     		spec repository: 'github://juliendelplanque/mathex/repository' ].
-		spec baseline: 'Mathex-AMS' with: [
+		spec baseline: 'MathexAMS' with: [
     		spec repository: 'github://juliendelplanque/mathex/repository' ].
 		spec package: #'Mathex-Compiler' ].
