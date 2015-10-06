@@ -1,0 +1,3 @@
+visiting
+visitMUnaryOperator: aMUnaryOperator
+	self subclassResponsibility

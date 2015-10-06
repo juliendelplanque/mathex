@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-UnaryOperatorsCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MExists",
+	"pools" : [
+		 ],
+	"super" : "MUnaryOperator",
+	"type" : "normal" }

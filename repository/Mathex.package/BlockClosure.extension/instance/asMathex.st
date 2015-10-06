@@ -1,3 +1,3 @@
 *Mathex
 asMathex
-	^MBlockClosure blockCLosure: self
+	^MBlockClosure blockClosure: self

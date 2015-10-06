@@ -2,6 +2,4 @@ visiting
 visitMBlockClosure: aMBlockClosure
 	| canvas |
 	canvas := aMBlockClosure canvas on: stream.
-	canvas
-		raw: aMBlockClosure value;
-		flush
+	aMBlockClosure blockClosure value acceptVisitor: self

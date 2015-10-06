@@ -1,0 +1,15 @@
+{
+	"category" : "Mathex-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 10/6/2015 06:57",
+	"instvars" : [
+		"parameters",
+		"parameter" ],
+	"name" : "MUnaryOperator",
+	"pools" : [
+		 ],
+	"super" : "MObject",
+	"type" : "normal" }
