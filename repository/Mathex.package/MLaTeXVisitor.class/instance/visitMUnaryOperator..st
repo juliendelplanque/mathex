@@ -4,4 +4,4 @@ visitMUnaryOperator: aMUnaryOperator
 	canvas := aMUnaryOperator canvas on: stream.
 	canvas
 		command name: aMUnaryOperator commandName.
-	aMUnaryOperator parameter acceptVisitor: self
+	aMUnaryOperator parameter ifNotNil: [ aMUnaryOperator parameter acceptVisitor: self ]
