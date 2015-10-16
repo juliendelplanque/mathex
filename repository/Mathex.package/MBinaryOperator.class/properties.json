@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 8/31/2015 11:40",
 	"instvars" : [
-		"leftParameter",
-		"rightParameter" ],
+		 ],
 	"name" : "MBinaryOperator",
 	"pools" : [
 		 ],
-	"super" : "MObject",
+	"super" : "MMultiParametredObject",
 	"type" : "normal" }

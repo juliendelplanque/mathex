@@ -1,8 +1,8 @@
 accessing
 parameter: anObject
 	self leftParameter isNil
-		ifTrue: [ leftParameter := anObject ]
+		ifTrue: [ self leftParameter: anObject ]
 		ifFalse: [ 
 			self rightParameter isNil
-				ifTrue: [ rightParameter := anObject ]
+				ifTrue: [ self rightParameter: anObject ]
 				ifFalse: [ ^ NumberOfParametersExceeded signal ] ]

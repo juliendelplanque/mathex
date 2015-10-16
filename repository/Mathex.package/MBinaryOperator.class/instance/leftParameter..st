@@ -1,3 +1,3 @@
 accessing
 leftParameter: anObject
-	leftParameter := anObject
+	self parameters at: 1 put: anObject

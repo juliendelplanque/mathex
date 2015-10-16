@@ -1,3 +1,3 @@
 accessing
 rightParameter
-	^ rightParameter
+	^ self parameters second

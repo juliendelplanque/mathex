@@ -1,3 +1,3 @@
 accessing
 leftParameter
-	^ leftParameter
+	^ self parameters first

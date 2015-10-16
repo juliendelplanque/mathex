@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 8/31/2015 11:40",
+	"commentStamp" : "JulienDelplanque 10/6/2015 12:58",
 	"instvars" : [
-		"optParameters" ],
-	"name" : "MCommand",
+		"parameters" ],
+	"name" : "MMultiParametredObject",
 	"pools" : [
 		 ],
-	"super" : "MMultiParametredObject",
+	"super" : "MObject",
 	"type" : "normal" }

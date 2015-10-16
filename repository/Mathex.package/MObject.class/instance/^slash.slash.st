@@ -2,5 +2,5 @@ operators
 // anObject
 	^MFrac new
 		parameter: self;
-		parameter: anObject;
+		parameter: anObject asMathex;
 		yourself

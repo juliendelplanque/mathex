@@ -1,4 +1,6 @@
 initialization
 initialize
 	super initialize.
-	parameters := OrderedCollection new.
+	parameters
+		add: nil;
+		add: nil
