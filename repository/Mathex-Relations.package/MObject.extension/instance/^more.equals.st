@@ -2,5 +2,5 @@
 >= anObject
 	^ MGeq new
 		leftParameter: self;
-		rightParameter: anObject;
+		rightParameter: anObject asMathex;
 		yourself

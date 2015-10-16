@@ -2,5 +2,5 @@
 ===> anObject
 	^MBigLongrightarrow new
 		leftParameter: self;
-		rightParameter: anObject;
+		rightParameter: anObject asMathex;
 		yourself
