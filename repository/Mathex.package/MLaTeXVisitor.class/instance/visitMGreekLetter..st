@@ -1,6 +1,6 @@
 visiting
 visitMGreekLetter: aMGreekLetter
-	| canvas command |
+	| canvas |
 	canvas := aMGreekLetter canvas on: stream.
-	command := canvas command name: aMGreekLetter letter.
+	canvas command name: aMGreekLetter letter.
 	canvas flush

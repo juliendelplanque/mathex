@@ -1,8 +1,6 @@
 unknown messages handling
 manageMessageWithArgs: aMessage
-	| subclasses classFound instance baseSelector i |
-	i := aMessage selector size - 1. "index of ':'".
-	baseSelector := (aMessage selector copyFrom: 1 to: i) asSymbol.
+	| subclasses classFound instance |
 	subclasses := MObject allUsableSubclasses.
 	classFound := subclasses
 							detect: [ :class | class selector = aMessage selector ]
