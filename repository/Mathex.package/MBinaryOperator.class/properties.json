@@ -10,5 +10,5 @@
 	"name" : "MBinaryOperator",
 	"pools" : [
 		 ],
-	"super" : "MMultiParametredObject",
+	"super" : "MMultiParametersObject",
 	"type" : "normal" }

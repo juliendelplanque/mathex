@@ -7,7 +7,7 @@
 	"commentStamp" : "JulienDelplanque 10/6/2015 12:58",
 	"instvars" : [
 		"parameters" ],
-	"name" : "MMultiParametredObject",
+	"name" : "MMultiParametersObject",
 	"pools" : [
 		 ],
 	"super" : "MObject",

@@ -10,5 +10,5 @@
 	"name" : "MConcatenate",
 	"pools" : [
 		 ],
-	"super" : "MMultiParametredObject",
+	"super" : "MMultiParametersObject",
 	"type" : "normal" }

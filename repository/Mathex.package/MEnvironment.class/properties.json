@@ -10,5 +10,5 @@
 	"name" : "MEnvironment",
 	"pools" : [
 		 ],
-	"super" : "MMultiParametredObject",
+	"super" : "MMultiParametersObject",
 	"type" : "normal" }
