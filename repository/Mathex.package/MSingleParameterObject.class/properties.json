@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 10/6/2015 06:57",
+	"commentStamp" : "JulienDelplanque 10/18/2015 10:02",
 	"instvars" : [
-		 ],
-	"name" : "MUnaryOperator",
+		"parameter" ],
+	"name" : "MSingleParameterObject",
 	"pools" : [
 		 ],
-	"super" : "MSingleParameterObject",
+	"super" : "MObject",
 	"type" : "normal" }
