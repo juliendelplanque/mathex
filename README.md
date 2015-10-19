@@ -25,12 +25,12 @@ $x asMathex.
 42 asMathex.
 (5 / 2) asMathex.
 2 asMathex sqrt.
-($e asMathex equal: $m) ,, $c power: 2. "#,, is used to concatenate."
+($e asMathex equals: $m) ,, $c power: 2. "#,, is used to concatenate."
 ~~~
 
 ### Use greek letters:
 ~~~
-MGreekLetter Gamma equal: 42.
+MGreekLetter Gamma equals: 42.
 ~~~
 Greek letters can be used as symbols converted:
 
@@ -59,9 +59,9 @@ $x asMathex equal: matrixOfResults.
 
 ### Export your stuff directly in a math environment.
 ~~~
-((42 asMathex equal: 40) + 2) math.
-((42 asMathex equal: 40) + 2) equation.
-((42 asMathex equal: 40) + 2) displayMath.
+((42 asMathex equals: 40) + 2) math.
+((42 asMathex equals: 40) + 2) equation.
+((42 asMathex equals: 40) + 2) displayMath.
 ~~~
 
 ## Load additional package
