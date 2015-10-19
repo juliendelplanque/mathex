@@ -2,7 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"createCommand" : "JulienDelplanque 9/11/2015 18:49",
-		"initialize" : "JulienDelplanque 9/11/2015 18:21",
+		"createCommand" : "JulienDelplanque 10/19/2015 18:24",
+		"initialize" : "JulienDelplanque 10/19/2015 18:23",
 		"parameterDict" : "JulienDelplanque 9/11/2015 18:50",
-		"parametersAt:put:" : "JulienDelplanque 9/11/2015 18:50" } }
+		"parametersAt:put:" : "JulienDelplanque 9/11/2015 18:50",
+		"targetFile" : "JulienDelplanque 10/19/2015 18:23",
+		"targetFile:" : "JulienDelplanque 10/19/2015 18:23" } }
