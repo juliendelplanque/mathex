@@ -11,4 +11,6 @@ generatePdfFrom: aMathexObject in: aDirectory
 		targetFile: latexFile pathString.
 	pdflatexOutput := (PipeableOSProcess command: pdflatex createCommand) output.
 	
+	(aDirectory / 'generated.pdf') exists
+		ifFalse: [ MCompilationError signal: pdflatexOutput ].
 	^aDirectory / 'generated.pdf'
