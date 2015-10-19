@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 9/6/2015 15:11",
 	"instvars" : [
-		"parameters" ],
+		 ],
 	"name" : "MConcatenate",
 	"pools" : [
 		 ],
-	"super" : "MObject",
+	"super" : "MMultiParametersObject",
 	"type" : "normal" }

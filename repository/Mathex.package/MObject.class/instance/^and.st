@@ -2,5 +2,5 @@ operators
 & anObject
 	^ MRowand new
 		leftParameter: self;
-		rightParameter: anObject;
+		rightParameter: anObject asMathex;
 		yourself

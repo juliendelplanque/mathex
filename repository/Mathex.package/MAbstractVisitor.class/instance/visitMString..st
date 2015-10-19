@@ -1,0 +1,3 @@
+visiting
+visitMString: aMString
+	self subclassResponsibility

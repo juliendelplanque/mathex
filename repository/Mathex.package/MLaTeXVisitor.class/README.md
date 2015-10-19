@@ -1,0 +1,1 @@
+This visitor generate the LaTeX source code from Mathex objects.

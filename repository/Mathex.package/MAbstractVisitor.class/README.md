@@ -1,0 +1,1 @@
+This visitor is abstract and defines messages requested by all visitors.

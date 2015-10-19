@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 9/11/2015 18:43",
 	"instvars" : [
-		"parameterDict" ],
+		"parameterDict",
+		"targetFile" ],
 	"name" : "MPdflatex",
 	"pools" : [
 		 ],

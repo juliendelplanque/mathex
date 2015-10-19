@@ -1,0 +1,3 @@
+*Mathex-Compiler
+isMathEnvironment
+	^true

@@ -6,5 +6,5 @@ createCommand
 		command
 			add: ('-' , key);
 			add: value ].
-	^command fold: [ :x :y | x , ' ' , y ]
+	^((command fold: [ :x :y | x , ' ' , y ]) , ' ' , (self targetFile ifNil: [ '' ]))
 	

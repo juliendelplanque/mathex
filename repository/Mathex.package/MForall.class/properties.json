@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-UnaryOperatorsCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MForall",
+	"pools" : [
+		 ],
+	"super" : "MUnaryOperator",
+	"type" : "normal" }

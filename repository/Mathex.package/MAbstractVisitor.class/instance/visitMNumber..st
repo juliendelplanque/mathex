@@ -1,0 +1,3 @@
+visiting
+visitMNumber: aMNumber
+	self subclassResponsibility

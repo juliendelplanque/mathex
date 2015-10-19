@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/28/2015 07:14",
+	"instvars" : [
+		 ],
+	"name" : "MUsepackage",
+	"pools" : [
+		 ],
+	"super" : "MCommand",
+	"type" : "normal" }

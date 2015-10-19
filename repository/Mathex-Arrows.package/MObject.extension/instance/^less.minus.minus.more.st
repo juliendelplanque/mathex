@@ -2,5 +2,5 @@
 <--> anObject
 	^MLeftrightarrow new
 		leftParameter: self;
-		rightParameter: anObject;
+		rightParameter: anObject asMathex;
 		yourself

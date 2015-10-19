@@ -3,12 +3,13 @@
 		"mathexTempDir" : "JulienDelplanque 9/25/2015 06:50",
 		"removeOldCompilations" : "JulienDelplanque 9/24/2015 21:17" },
 	"instance" : {
-		"createCompilableLatexWith:" : "JulienDelplanque 9/25/2015 12:12",
-		"determinatePdfPath:" : "JulienDelplanque 9/25/2015 18:03",
+		"createCompilableLatexWith:" : "JulienDelplanque 10/6/2015 07:09",
+		"createCompilableLatexWith:in:" : "JulienDelplanque 10/19/2015 18:09",
 		"echoCommand:" : "JulienDelplanque 9/24/2015 18:03",
 		"forkGeneratePngFrom:in:" : "JulienDelplanque 9/24/2015 19:44",
 		"forkGeneratePngSilentlyFrom:in:" : "JulienDelplanque 9/24/2015 19:44",
 		"forkGeneratePngSilentlyFrom:in:thenDo:" : "JulienDelplanque 9/25/2015 06:57",
-		"generatePdfFrom:in:" : "JulienDelplanque 9/25/2015 18:06",
+		"forkGeneratePngSilentlyFrom:in:thenDo:on:do:" : "JulienDelplanque 9/28/2015 06:51",
+		"generatePdfFrom:in:" : "JulienDelplanque 10/19/2015 18:43",
 		"generatePngFrom:in:" : "JulienDelplanque 9/25/2015 06:57",
-		"manageDisplayOn:morph:for:" : "JulienDelplanque 9/25/2015 06:49" } }
+		"manageDisplayOn:morph:for:" : "JulienDelplanque 9/28/2015 06:58" } }

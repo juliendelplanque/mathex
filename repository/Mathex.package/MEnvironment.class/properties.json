@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 8/31/2015 20:28",
 	"instvars" : [
-		"inside",
-		"parameters" ],
+		"inside" ],
 	"name" : "MEnvironment",
 	"pools" : [
 		 ],
-	"super" : "MObject",
+	"super" : "MMultiParametersObject",
 	"type" : "normal" }

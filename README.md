@@ -38,7 +38,7 @@ Greek letters can be used as symbols converted:
  #gamma asMathex.
 ~~~
 
-### Use the array environement:
+### Use the array environment:
 ~~~
 mArray := MArray new.
 mArray

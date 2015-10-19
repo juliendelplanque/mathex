@@ -1,7 +1,6 @@
 accessing
 contents
-	| stream |
-	stream := PROutputStream on: String new writeStream. 
-	stream configuration: PRCocoonConfiguration new.
-	self mathexOn: stream.
-	^stream contents
+	| visitor |
+	visitor := MLaTeXVisitor new.
+	self acceptVisitor: visitor.
+	^visitor stream contents

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"visitMArray:" : "JulienDelplanque 9/29/2015 15:59",
+		"visitMBigDelimiters:" : "JulienDelplanque 9/29/2015 18:34",
+		"visitMBinaryOperator:" : "JulienDelplanque 9/29/2015 16:00",
+		"visitMBinaryOperatorCommand:" : "JulienDelplanque 9/29/2015 16:00",
+		"visitMBlockClosure:" : "JulienDelplanque 9/29/2015 16:01",
+		"visitMCharacter:" : "JulienDelplanque 9/29/2015 16:01",
+		"visitMCommand:" : "JulienDelplanque 9/29/2015 16:01",
+		"visitMConcatenate:" : "JulienDelplanque 9/29/2015 16:02",
+		"visitMDelimiters:" : "JulienDelplanque 9/29/2015 16:02",
+		"visitMEnvironment:" : "JulienDelplanque 9/29/2015 16:02",
+		"visitMGreekLetter:" : "JulienDelplanque 9/29/2015 16:02",
+		"visitMMatrix:" : "JulienDelplanque 9/29/2015 16:03",
+		"visitMNewline:" : "JulienDelplanque 9/29/2015 16:03",
+		"visitMNumber:" : "JulienDelplanque 9/29/2015 16:03",
+		"visitMRow:" : "JulienDelplanque 9/29/2015 16:04",
+		"visitMSpecialBinaryOperator:" : "JulienDelplanque 9/29/2015 16:04",
+		"visitMString:" : "JulienDelplanque 9/29/2015 16:04",
+		"visitMUnaryOperator:" : "JulienDelplanque 10/6/2015 07:01" } }

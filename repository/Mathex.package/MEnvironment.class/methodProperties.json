@@ -3,10 +3,7 @@
 		"allUsableSubclasses" : "JulienDelplanque 9/10/2015 17:47",
 		"environmentName" : "JulienDelplanque 9/8/2015 10:44" },
 	"instance" : {
+		"acceptVisitor:" : "JulienDelplanque 9/28/2015 19:04",
 		"environmentName" : "JulienDelplanque 9/8/2015 10:44",
-		"initialize" : "JulienDelplanque 9/12/2015 11:02",
 		"inside" : "JulienDelplanque 8/31/2015 20:29",
-		"inside:" : "JulienDelplanque 8/31/2015 20:29",
-		"mathexOn:" : "JulienDelplanque 9/21/2015 18:28",
-		"parameter:" : "JulienDelplanque 9/2/2015 23:24",
-		"parameters" : "JulienDelplanque 9/2/2015 23:24" } }
+		"inside:" : "JulienDelplanque 8/31/2015 20:29" } }

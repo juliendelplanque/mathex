@@ -1,0 +1,5 @@
+visiting
+visitMSpecialBinaryOperator: aMSpecialBinaryOperator
+	aMSpecialBinaryOperator leftParameter asMathex acceptVisitor: self.
+	aMSpecialBinaryOperator rightParameter asMathex acceptVisitor: self.
+	dependencies addAll: aMSpecialBinaryOperator class requestedPackages

@@ -2,5 +2,5 @@ operators
 > anObject
 	^MGreater new
 		leftParameter: self;
-		rightParameter: anObject;
+		rightParameter: anObject asMathex;
 		yourself

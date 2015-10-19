@@ -1,0 +1,3 @@
+visiting
+visitMCommand: aMCommand
+	self subclassResponsibility

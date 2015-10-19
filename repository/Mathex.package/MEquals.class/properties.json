@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-RelationsCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/4/2015 09:23",
+	"instvars" : [
+		 ],
+	"name" : "MEquals",
+	"pools" : [
+		 ],
+	"super" : "MBinaryOperator",
+	"type" : "normal" }

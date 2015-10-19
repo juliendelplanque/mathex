@@ -1,0 +1,3 @@
+accessing
+allUsableSubclasses
+	self shouldNotImplement

@@ -1,5 +1,7 @@
 loading
 loadBinaryOperators
+	<mathexExtension>
+	
 	Metacello new
     baseline: 'MathexBinaryOperators';
     repository: self repositoryUrl;

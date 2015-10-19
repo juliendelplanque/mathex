@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 10/18/2015 10:02",
+	"instvars" : [
+		"parameter" ],
+	"name" : "MSingleParameterObject",
+	"pools" : [
+		 ],
+	"super" : "MObject",
+	"type" : "normal" }
