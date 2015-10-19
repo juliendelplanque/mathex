@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMathexAMS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMathexAMS",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
