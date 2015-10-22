@@ -2,7 +2,7 @@ generation
 generatePdfFrom: aMathexObject in: aDirectory
 	| pdflatex latexFile pdflatexOutput |
 	MPdflatex isAvailable
-		ifFalse: [ MCommandUnavailable signal: 'The command ''pdflatex'' was not found in your $PATH.' ]
+		ifFalse: [ MCommandUnavailable signal: 'The command ''pdflatex'' was not found in your $PATH.' ].
 	AioEventHandler initializeAioPluginPresent.
 	aDirectory exists
 		ifFalse: [ aDirectory createDirectory ].
