@@ -1,6 +1,8 @@
 generation
 generatePngFrom: aMathexObject in: aDirectory
 	| pdfFile convert pngFile |
+	MConvert isAvailable
+		ifFalse: [ MCommandUnavailable signal: 'The command ''convert'' was not found in your $PATH.' ].
 	aDirectory exists ifTrue: [ aDirectory deleteAllChildren ].
 	pdfFile := self generatePdfFrom: aMathexObject in: aDirectory.
 	pngFile := (aDirectory / 'generated.png').

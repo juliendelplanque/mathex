@@ -1,0 +1,1 @@
+I am the error raised when a command is not available on the system.
