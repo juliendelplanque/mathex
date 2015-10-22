@@ -13,4 +13,6 @@ baseline: spec
     		spec repository: 'github://juliendelplanque/mathex/repository' ].
 		spec baseline: 'MathexAMS' with: [
     		spec repository: 'github://juliendelplanque/mathex/repository' ].
+		spec baseline: 'CommandAvailability' with: [ 
+			spec repository: 'github://juliendelplanque/commandavailability/repository' ].
 		spec package: #'Mathex-Compiler' ].
