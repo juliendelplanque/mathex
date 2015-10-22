@@ -1,7 +1,7 @@
 {
 	"category" : "Mathex-Compiler",
 	"classinstvars" : [
-		 ],
+		"isAvailable" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "JulienDelplanque 9/11/2015 18:43",
