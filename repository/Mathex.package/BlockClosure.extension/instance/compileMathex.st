@@ -1,0 +1,3 @@
+*Mathex
+compileMathex
+	^ self value
