@@ -1,0 +1,3 @@
+*Mathex-PillarIntegration
+visitMathexAnnotation: aMathexAnnotation
+	self visitAnnotation: aMathexAnnotation

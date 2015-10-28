@@ -1,0 +1,3 @@
+*Mathex-PillarIntegration
+visitMathexAnnotation: aMathexAnnotation
+	canvas raw: aMathexAnnotation compileMathex contents

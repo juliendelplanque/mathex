@@ -1,0 +1,14 @@
+{
+	"category" : "Mathex-PillarIntegration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 10/28/2015 12:57",
+	"instvars" : [
+		 ],
+	"name" : "PIMathexAnnotation",
+	"pools" : [
+		 ],
+	"super" : "PRAbstractAnnotation",
+	"type" : "normal" }
