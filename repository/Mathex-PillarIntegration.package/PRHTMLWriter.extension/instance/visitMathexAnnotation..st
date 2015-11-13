@@ -1,3 +1,0 @@
-*Mathex-PillarIntegration
-visitMathexAnnotation: aMathexAnnotation
-	aMathexAnnotation generatePRFigure accept: self
