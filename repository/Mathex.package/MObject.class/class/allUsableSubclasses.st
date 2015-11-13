@@ -2,5 +2,4 @@ private
 allUsableSubclasses
 	"Answer subclasses names that may be used in #doesNotUnderstand: look up."
 	
-	^self allSubclasses
-		select: [ :subC | subC isUsable ]
+	^ self allSubclasses select: #isUsable
